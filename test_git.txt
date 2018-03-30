@@ -1,0 +1,3 @@
+try demo_git:
+test chinese.
+测试中文。
